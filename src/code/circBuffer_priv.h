@@ -10,11 +10,11 @@
 
 #include <stdint.h>
 
-struct circBuffer{
-	uint8_t *pData;
-	uint32_t inIndex;
-	uint32_t outIndex;
-	uint32_t capacity;
+struct circBuffer {
+    uint8_t *pData;
+    uint32_t inIndex;
+    uint32_t outIndex;
+    uint32_t capacity;
 } circBuffer;
 
 #endif /* CODE_CIRCBUFFER_PRIV_H_ */
