@@ -1,0 +1,7 @@
+# circBufferTdd
+Circular buffer implementation using TDD with cpputest framework.
+
+Created only for studying purposes.
+The guidelines are available in James Greening's blog:
+http://blog.wingman-sw.com/tdd-guided-by-zombies
+
